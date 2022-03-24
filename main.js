@@ -42,3 +42,5 @@ function main() {
 	document.write ("<h1>Planeta de origem:  " + originFemale + "</h1>");
 	document.write ("<h1>Episodio:  " + episodeNamef + "</h1>");
 }
+
+main();
